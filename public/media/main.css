@@ -1,0 +1,50 @@
+.default {
+    padding:5px;
+    text-align: center;
+}
+.color {
+    height:44px;
+}
+.list_2 {
+    background:black;
+    color:white;
+}
+.list_5 {
+    background:#CC0001;
+    color:white;
+}
+.list_5 a {
+    color:black;
+    font-weight:bold;
+}
+.comment {
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:13px;
+}
+#header {
+    height:315px;
+    background: url('img/flag.jpg');
+    text-align: center;
+}
+#gerb {
+    text-align: center;
+    z-index: 99;
+}
+#gimn {
+    width:100%;
+}
+#lanNavSel {
+    text-transform: uppercase;
+}
+#footer {
+    margin-top:60px;
+    background: #6c757d;
+    text-align: center;
+    padding:100px 0;
+    color:white;
+}
+#footer a {
+    color:#c69500;
+    text-decoration: none;
+}

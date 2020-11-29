@@ -1,0 +1,2 @@
+<a href="{{asset('home/page')}}" class="btn btn-outline-dark btn-block">{{__('page.links.page')}}</a>
+<a href="{{asset('home')}}" class="btn btn-outline-dark btn-block">{{__('main.menu.elections.election')}}</a>
